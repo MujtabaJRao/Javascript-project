@@ -3,7 +3,7 @@ import React,{useState} from "react"
 function ToDolist(){
 
 
-const [tasks,setTasks]=useState(['Eat Break fast🥞',"Take a Shower🚿","Walk the dog🐶"]);
+const [tasks,setTasks]=useState(['Eat Breakfast🥞',"Take a Shower🚿","Walk the dog🐶"]);
 const [newTask,setNewTask]=useState("");
 
 
