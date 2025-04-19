@@ -10,7 +10,7 @@ import ProfilePicture from "./profielpic";
 //import ColorPicker from "./color picker";
 //import Mycomponent from "./update state";
 //import Mycomponent from "./useeffect";
-import ToDolist from "./todolist";
+import ToDolist from "./toDolist";
 function App() {
   
 
